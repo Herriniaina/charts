@@ -1,5 +1,5 @@
 import {Component} from '@angular/core';
-import { ChartComponent } from './components/chart.component';
+import { ChartComponent } from './chart.component';
 import { CORE_DIRECTIVES } from '@angular/common';
 import {Router,Routes,ROUTER_DIRECTIVES} from '@angular/router';
 
