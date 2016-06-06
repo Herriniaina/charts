@@ -11,5 +11,4 @@ export class ChartService {
   getOptions(){
     return Promise.resolve(CHARTOPTIONS);
   }
-
 }
